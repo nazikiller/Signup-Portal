@@ -1,0 +1,37 @@
+.form-control{
+	border: none;
+	border-bottom: 2px solid green;
+
+
+}
+.form-control:focus{
+	box-shadow: none;
+	border-bottom: 2px solid green;
+}
+.btn{
+	margin-top: 10px;
+	width: 100%;
+
+}
+.btn:focus{
+	box-shadow: none;
+}
+.ref{
+	text-decoration: none;
+	color: green;
+}
+.ref:hover{
+	color: green;
+}
+.ref:focus{
+	color: green;
+}
+.ref1{
+	margin-top: 5px;
+}
+.floatingInput1{
+	transition: 1.5s ease in out;
+}
+.card{
+	border-top: 2px solid green;
+}
